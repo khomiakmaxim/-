@@ -1,0 +1,3 @@
+Azero	25	25	250	short0	
+First	1	10	100	short1	
+Rhit	3	30	300	short3	

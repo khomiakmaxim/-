@@ -1,0 +1,6 @@
+C:\Users\Максим\source\repos\Stoiko2\bin\Debug\Stoiko2.exe.config
+C:\Users\Максим\source\repos\Stoiko2\bin\Debug\Stoiko2.exe
+C:\Users\Максим\source\repos\Stoiko2\bin\Debug\Stoiko2.pdb
+C:\Users\Максим\source\repos\Stoiko2\obj\Debug\Stoiko2.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\Stoiko2\obj\Debug\Stoiko2.exe
+C:\Users\Максим\source\repos\Stoiko2\obj\Debug\Stoiko2.pdb
